@@ -1,0 +1,5 @@
+*.old
+.vscode/
+main/build/
+build/
+.cache/

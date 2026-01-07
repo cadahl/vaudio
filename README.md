@@ -42,4 +42,4 @@ Overview
         - va_screen_play - Shown when playing audio.
         - va_screen_splash - Shown on system startup.
 
-To be expanded.
+To be expanded with schematics and PCB layout.
